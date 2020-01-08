@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    position: absolute;
+    position: "";
     width: 960px;
 }
 .head {
@@ -28,31 +28,31 @@ body {
 
 /* my name at the top of site */
 .name{
-    position: absolute;
+    position: relative;
     font-size: x-large;
+    
 }
 
 /* Nav links to each page */
 #aboutlink {
     border-right:1px solid #777;
-    padding: 0% 1%; 
 }
 
 #contactlink {
     border-right:1px solid #777;
-    padding: 0% 1%;
     
 }
 
 #portfoliolink {
-    padding: 0% 1%;
+    padding: "";
 }
 
 /* the container for my name */
 .container header h1 {
     background-color: #4aaaa5;
     color: rgb(233, 233, 233);
-    width: 20%;
+    width: auto;
+    height: auto;
     text-align: center;
     padding: 3%;
     overflow: hidden;

@@ -6,9 +6,11 @@ My goal for this project is to practice using Bootstrap to **streamline** some H
 
 <p align="center">
   <img alt="Front page of my site place holder" src=sitePlaceHolder2.PNG>
+    </p>
+<p align="center">
   <strong>:bomb::boom:The current state of my portfolio:boom::bomb:</strong>
     </p>
-
+    
 ## Benefits of this project
 **Practice Bootstrp** to familiarize how it can quicken the creation of a website and, more *importantly* make the website dynamic on multiple screen sizes :computer::iphone::tv::pager:
 

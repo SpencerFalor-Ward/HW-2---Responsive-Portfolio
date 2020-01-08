@@ -16,7 +16,7 @@ My goal for this project is to practice using Bootstrap to **streamline** some H
 
 ## Hurddles 
 The dificulties about this project are as follows:
-- Writing the code (who knew :gimacing:
+- Writing the code (who knew :thinking:)
   - As always, adding my own personal touch with out getting to *deep in the weeds*
   - **Positioning and sizing of elements** so my page doesn't look like a [Piet Mondrian](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg/800px-Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg)
 - Staying focused!

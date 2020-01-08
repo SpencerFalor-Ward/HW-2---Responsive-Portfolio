@@ -5,7 +5,7 @@ Bootcamp **HW#2** Responsive Portfolio, *using Bootstrap*
 My goal for this project is to practice using Bootstrap to **streamline** some HTML code input
 
 <p align="center">
-  <img alt="Front page of my site place holder" src="https://cdn.shopify.com/s/files/1/0608/2925/products/Kaiju_Sighting_1_1024x1024.jpg?v=1537975479">
+  <img alt="Front page of my site place holder" src=https://spencerfalor-ward.github.io/>
   <strong>The current state of my portfolio</strong>
     </p>
 
@@ -18,4 +18,4 @@ The dificulties about this project are as follows:
   - As always, adding my own personal touch with out getting to *deep in the weeds*
   - **Positioning and sizing of elements** so my page doesn't look like a [Piet Mondrian](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg/800px-Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg)
 - Staying focused
-  :whisper: *all my best distractions live in the same machine as this project*
+ - *all my best distractions live in the same machine as this project*

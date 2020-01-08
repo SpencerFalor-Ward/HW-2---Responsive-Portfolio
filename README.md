@@ -1,5 +1,5 @@
 # HW-2--Responsive-Portfolio
-Bootcamp **HW#2-Responsive Portfolio**, *using Bootstrap*
+Bootcamp **HW#2-Responsive Portfolio**, *using Bootstrap<strong>!</strong>*
 
 ## Goal for the project
 My goal for this project is to practice using Bootstrap to **streamline** some HTML code input

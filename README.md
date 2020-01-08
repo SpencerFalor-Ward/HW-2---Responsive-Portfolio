@@ -5,8 +5,8 @@ Bootcamp **HW#2** Responsive Portfolio, *using Bootstrap*
 My goal for this project is to practice using Bootstrap to **streamline** some HTML code input
 
 <p align="center">
-  <img alt="Front page of my site place holder" src=sitePlaceHolder.PNG>
-  <strong>The current state of my portfolio</strong>
+  <img alt="Front page of my site place holder" src=sitePlaceHolder2.PNG>
+  <strong>:bomb::boom:The current state of my portfolio:boom::bomb:</strong>
     </p>
 
 ## Benefits of this project

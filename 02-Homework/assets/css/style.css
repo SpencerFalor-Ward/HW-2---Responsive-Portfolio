@@ -33,11 +33,16 @@ body {
     
 }
 
-.navbar-bar{
+/* bootstrap navbar container */
+.navbar{
     display: flex;
-    justify-content: flex-end;
     width: 100%;
 }
+
+#navbarNav {
+    justify-content: flex-end;
+}
+
 
 /* Nav links to each page */
 #aboutlink {

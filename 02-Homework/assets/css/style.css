@@ -56,6 +56,7 @@ body {
     width: 100%;
     padding: 0%;
     align-items: unset;
+    justify-content: unset;
 }
 
 /* Nav links to pages on site */
@@ -144,8 +145,8 @@ body {
     position: sticky;
     z-index: 200;
     width: 100%;
-    padding-top: 2.5%;
-    padding-bottom: 2.5%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
     margin-top: 0.1%;
     border-top: 3px solid #4aaaa5;
     background-color: #666666;
@@ -179,7 +180,7 @@ textarea {
     padding: 0;
     margin: 0;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(24, 5vw);
+    /* grid-template-rows: repeat(24, 5vw); */
     grid-gap: 15px;
     
 }

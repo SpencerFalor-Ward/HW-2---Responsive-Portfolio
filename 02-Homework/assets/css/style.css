@@ -1,5 +1,5 @@
 
-/* changed #ffffff to rgb(233, 233, 233) */
+/* "*" is selecting all elemnets for box-sizing */
 * {
     box-sizing: border-box;
 }
@@ -9,10 +9,13 @@ body {
     background-image: url(../images/subtle_white_feathers.png);
 }
 
+/* Container for all elements to maintain the 960px width */
 .container {
     position: "";
     width: 960px;
 }
+
+/* Container for the header at top of page */
 .head {
     width: 100%;
     padding: 0 3%;
@@ -23,6 +26,20 @@ body {
     overflow: hidden;
     position: relative;
     
+}
+
+    /* the container within the header for my name */
+    .header {
+        background-color: #4aaaa5;
+        color: rgb(233, 233, 233);
+        width: auto;
+        height: auto;
+        text-align: center;
+        padding: 3%;
+        overflow: hidden;
+        position: relative;
+        margin: 0%;
+        border: 0px 1px solid rgb(220, 220, 220);  
 
 }
 
@@ -37,8 +54,11 @@ body {
 .navbar{
     display: flex;
     width: 100%;
+    padding: 0%;
+    align-items: unset;
 }
 
+/* Nav links to pages on site */
 #navbarNav {
     justify-content: flex-end;
 }
@@ -56,20 +76,6 @@ body {
 
 #portfoliolink {
     padding: "";
-}
-
-/* the container for my name */
-.header h1 {
-    background-color: #4aaaa5;
-    color: rgb(233, 233, 233);
-    width: auto;
-    height: auto;
-    text-align: center;
-    padding: 3%;
-    overflow: hidden;
-    position: relative;
-    border: 0px 1px solid rgb(220, 220, 220);  
-
 }
 
 .aboutMe {
@@ -104,6 +110,8 @@ body {
     color:#4aaaa5;
     
 }
+
+/* picture on about page */
 #profilePic {
     height: 420px;
     width: 280px;
@@ -115,6 +123,7 @@ body {
 
 }
 
+/* Container for main body of info on each page */
 #main-info {
     position: relative;
     background-color: rgb(233, 233, 233);
@@ -144,6 +153,7 @@ body {
     bottom:0%;
 }
 
+/* Styling for form on contact page */
 .form{
     margin:2% 12.5%;
     clear: both;
@@ -163,6 +173,7 @@ textarea {
     width:auto;
 }
 
+/* Styling for the photo grid on portfolio page */
 .projectGrid {
     display: grid;
     padding: 0;
@@ -171,6 +182,10 @@ textarea {
     grid-template-rows: repeat(24, 5vw);
     grid-gap: 15px;
     
+}
+
+.wrap {
+    position: relative;
 }
 
 .projectGrid a {

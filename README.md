@@ -1,4 +1,4 @@
-# <alt="HW-2--Responsive-Portfolio" href = https://spencerfalor-ward.github.io/HW-2---Responsive-Portfolio/>
+# [HW-2--Responsive-Portfolio] (https://spencerfalor-ward.github.io/HW-2---Responsive-Portfolio/)
 Bootcamp **HW#2-Responsive Portfolio**, *using Bootstrap<strong>!</strong>*
 
 ## Goal for the project
